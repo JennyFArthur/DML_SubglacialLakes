@@ -1,4 +1,4 @@
-# Subglacial lake activity beneath the East Antarctic Ice Sheet in coastal Dronning Maud Land from ICESat-2 laser altimetry
+# Evidence of active subglacial lakes under a slowly moving coastal region of the Antarctic Ice Sheet
 (Accompanying data for Arthur et al. (submitted, *The Cryosphere*). 
 
 This repository contains:
