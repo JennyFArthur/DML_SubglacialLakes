@@ -15,3 +15,5 @@ Boundaries of Lakes L1, R1 and R2 have been delineated based on differencing of 
 GIS Shapefile attributes: 
 
 **Lake area**, **distance from grounding line** (MEaSUREs, *Rignot et al., 2016*), centre **latitude**, centre **longitude**, **ice flow speed** (*Gardner et al., 2018*), **ice thickness** (*Fretwell et al., 2013*; *Morlighem et al., 2022*), **bed elevation** (*Morlighem et al., 2022*), **category** (high-confidence/provisionally-active), **dates of REMA DEM strips** used to delineate lake boundary (where applicable). 
+
+This dataset is also available at the Norwegian Polar Data Centre: https://data.npolar.no/dataset/ab777130-2696-41e6-92dd-2ac09ed9e301
